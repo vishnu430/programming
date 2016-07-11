@@ -1,3 +1,7 @@
+/*
+command: valgrind ./memory_leak --leak-check=full –show-reachable=yes
+*/
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
